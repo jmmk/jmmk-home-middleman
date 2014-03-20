@@ -3,4 +3,7 @@
 /.sass-cache
 .DS_Store
 .s3_sync
+.cloudflare_purge
 .cache
+Gemfile.lock
+.ruby-gemset

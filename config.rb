@@ -85,3 +85,5 @@ end
 activate :s3_sync do |s3|
     s3.bucket = 'michaelmclellan.me'
 end
+
+activate :cloudflare_purge

@@ -11,3 +11,5 @@ end
 
 gem 'haml'
 gem 'bootstrap-sass'
+
+gem 'middleman-cloudflare_purge'
